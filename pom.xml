@@ -10,6 +10,13 @@
     </properties>
     <name>chapter3</name>
   
+  <dependencies>
+   <dependency>
+     <groupId>com.smart4j</groupId>
+  <artifactId>smart-framework</artifactId>
+  <version>1.0.0</version>
+   </dependency>
+  </dependencies>
   
   <build>
         <plugins>
